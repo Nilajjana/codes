@@ -1,0 +1,1 @@
+this code here is a simple implementation of the concept of markov chain relationship model in ai this one tris to predict the numbe that i most probable to input after the current one and returns the precent tage of correct prediction it does in a batch of random inputs 
